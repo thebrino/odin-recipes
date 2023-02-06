@@ -1,0 +1,14 @@
+body {
+  background-color: #333;
+  color: #fff;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3rem;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
